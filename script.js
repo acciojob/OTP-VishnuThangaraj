@@ -16,4 +16,5 @@ document.addEventListener("keydown", function (event) {
 
   otpfield[current].classList.add("focused");
   otpfield[current].focus();
+  //conslole.log(0)
 });
